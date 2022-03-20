@@ -1,0 +1,2 @@
+# juruo-minishop
+shop mini
